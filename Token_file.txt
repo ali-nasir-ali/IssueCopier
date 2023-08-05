@@ -1,0 +1,7 @@
+{
+"sourceOwner" : "CodeYourFuture",
+"sourceRepo" : "Module-Databases", 
+"targetOwner" : "ali-nasir-ali",
+"targetRepo" : "Coursework-Planner",
+"personalAccessToken" : "github_pat_11AGS4MCI0k--------------------------------------------"
+}

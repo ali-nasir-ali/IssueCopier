@@ -63,5 +63,5 @@ maybe:
 ## Installation
 
 ```
-pip install issuecopier
+npm install issuecopier
 ```
